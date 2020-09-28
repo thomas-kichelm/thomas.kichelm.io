@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Razer eini</title>
+<meta http-equiv="refresh" content="5; URL=https://www.razer.com/fr-fr/gaming-mice?utm_source=other&utm_medium=banner-ad&utm_campaign=200904_REU_FR-_-Mice-Fluuid-_-BR&cid=mice_dehttps://www.razer.com/fr-fr/gaming-mice?utm_source=other&utm_medium=banner-ad&utm_campaign=200904_REU_FR-_-Mice-Fluuid-_-BR&cid=mice_de">
+</head>
+<body >
+
+</body>
+</html>
